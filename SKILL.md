@@ -1,7 +1,7 @@
 ***
 
 name: "vant-ui-skills"
-description: "Vant Skills Library - A comprehensive skill library for AI agents to understand and utilize Vant UI components. Invoke when user needs to work with Vant mobile components, theming, i18n, or mobile-first design patterns."
+description: "Vant UI Skills Library - A comprehensive skill library for AI agents to understand and utilize Vant UI components. Invoke when user needs to work with Vant mobile components, theming, i18n, or mobile-first design patterns."
 metadata:
 author: jiaiyan
 version: "1.0.0"
